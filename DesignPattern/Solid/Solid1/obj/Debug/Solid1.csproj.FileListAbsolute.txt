@@ -1,0 +1,7 @@
+F:\DesignPattern\Solid\Solid1\bin\Debug\Solid1.exe.config
+F:\DesignPattern\Solid\Solid1\bin\Debug\Solid1.exe
+F:\DesignPattern\Solid\Solid1\bin\Debug\Solid1.pdb
+F:\DesignPattern\Solid\Solid1\obj\Debug\Solid1.csprojAssemblyReference.cache
+F:\DesignPattern\Solid\Solid1\obj\Debug\Solid1.csproj.CoreCompileInputs.cache
+F:\DesignPattern\Solid\Solid1\obj\Debug\Solid1.exe
+F:\DesignPattern\Solid\Solid1\obj\Debug\Solid1.pdb
