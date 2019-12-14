@@ -50,6 +50,7 @@ namespace ConsoleApp1
             Console.WriteLine("Test1a");
             Console.WriteLine("Test1b");
             Console.WriteLine("Test2");
+            Console.WriteLine("Test3");
         }
 
         private static long DateToTicks(int year, int month, int day)
