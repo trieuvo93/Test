@@ -47,6 +47,8 @@ namespace ConsoleApp1
             var s = DateToTicks(2018, 02, 13);
             Console.WriteLine("Testttt");
             Console.WriteLine("Test1");
+            Console.WriteLine("Test1a");
+            Console.WriteLine("Test1b");
         }
 
         private static long DateToTicks(int year, int month, int day)
