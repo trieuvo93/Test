@@ -45,6 +45,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             var s = DateToTicks(2018, 02, 13);
+            Console.WriteLine("Testttt");
             Console.WriteLine("Test1");
         }
 
